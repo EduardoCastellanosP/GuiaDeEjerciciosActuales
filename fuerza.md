@@ -23,4 +23,7 @@ Falta de flexibilidad: Puede aumentar el riesgo de lesión.
 # Generalidades 
 La sentadilla es un ejercicio clave para fortalecer piernas, glúteos y core. Mejora la fuerza, 
 estabilidad y movilidad, además de ayudar a quemar calorías y aumentar la densidad ósea. 
-Es esencial realizarla con buena técnica para evitar lesiones.
+<<<<<<< HEAD
+
+# markdowm
+Flexibilidad
